@@ -1,0 +1,7 @@
+Par: ./multi_copia/*.txt tiene 0 columnas
+Par: ./multi_copia/n1.txt tiene 80 columnas
+Impar: ./multi_copia/n11.txt tiene 91 columnas
+Impar: ./multi_copia/n21.txt tiene 45 columnas
+Impar: ./multi_copia/n31.txt tiene 25 columnas
+Par: ./multi_copia/n41.txt tiene 10 columnas
+Impar: ./multi_copia/n51.txt tiene 15 columnas
